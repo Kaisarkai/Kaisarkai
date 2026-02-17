@@ -64,8 +64,10 @@ Currently, I am conducting advanced research on **Medical Image Analysis**, spec
 ### 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaisarkai&theme=outrun&no-frame=true&row=1&column=7" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaisarkai&show_icons=true&theme=gotham&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaisarkai&layout=compact&theme=gotham&hide_border=true" height="160" alt="languages graph" />
 </div>
+
 
 <br/>
 
